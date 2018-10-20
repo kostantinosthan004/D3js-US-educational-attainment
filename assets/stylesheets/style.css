@@ -1,9 +1,9 @@
 /* Stores all CSS variable */
 :root {
-    --dark-green: #212323;
-    --dark-pink: #190f27;
-    --transluscent-dark-red: rgba(25, 15, 39, 0.87);
-    --light-yellow: #5a4570;
+    --dark-blue: #212323;
+    --dark-green: #190f27;
+    --transluscent-dark-pink: rgba(25, 15, 39, 0.87);
+    --light-: #5a4570;
     --mid-red: #989898;
     --light-black: #dededd;
     --cream : #dbd7cf;
