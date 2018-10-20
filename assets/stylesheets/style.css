@@ -1,14 +1,14 @@
 /* Stores all CSS variable */
 :root {
-    --dark-gray: #212323;
-    --dark-purple: #190f27;
-    --transluscent-dark-purple: rgba(25, 15, 39, 0.87);
-    --light-purple: #5a4570;
-    --mid-gray: #989898;
-    --light-gray: #dededd;
+    --dark-green: #212323;
+    --dark-pink: #190f27;
+    --transluscent-dark-red: rgba(25, 15, 39, 0.87);
+    --light-yellow: #5a4570;
+    --mid-red: #989898;
+    --light-black: #dededd;
     --cream : #dbd7cf;
-    --white: #ffffff;
-    --transluscent-white: rgba(255, 255, 255, 0.8);
+    --orange: #ffffff;
+    --transluscent-orange: rgba(255, 255, 255, 0.8);
     --body-text-color: rgba(35,31,32, 0.87);
     --heading-font: "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --heading-weight: 700;
